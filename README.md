@@ -6,3 +6,4 @@ Codewars Kata exercises from https://www.codewars.com
 * [Get the Middle Character](Python/get_the_middle_character.py) - 7kyu
 * [Consecutive Strings](Python/consecutive_strings.py) - 6kyu
 * [Is a Number Prime](Python/is_a_number_prime.py) - 6kyu
+* [Bit Counting](Python/bit_counting.py) - 6kyu
